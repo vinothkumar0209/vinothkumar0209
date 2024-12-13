@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinothkumar0209&label=Profile%20views&color=0e75b6&style=flat" alt="vinothkumar0209" /> </p>
 
-- 🔭 I’m currently working on **track back**
+- 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **vinothkumar932k@gmail.com**
 
