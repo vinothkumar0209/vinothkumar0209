@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **track back**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **react js**
 
 - 📫 How to reach me **vinothkumar932k@gmail.com**
 
