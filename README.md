@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **FullStack Development(React.js & .NET)**
 
 - 📫 How to reach me **vinothkumar932k@gmail.com**
 
